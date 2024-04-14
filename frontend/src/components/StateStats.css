@@ -1,0 +1,23 @@
+.title {
+  padding: 12px;
+  /* font-size: 32px; */
+}
+
+.stats-container {
+  display: grid;
+  grid-template-columns: auto auto;
+  font-size: 48px;
+  margin-bottom: 32px;
+}
+
+.stats-item {
+  font-size: 14px;
+  text-align: center;
+}
+
+.lastUpdated {
+  top: 0;
+  right: 0;
+  text-align: right;
+  font-size: 10px;
+}

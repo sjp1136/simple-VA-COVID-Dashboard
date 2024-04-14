@@ -1,0 +1,33 @@
+.widthChanger {
+  width: 100%;
+  height: 300px;
+  /* padding-top: 50px; */
+}
+.StateStatsContainer {
+  padding-top: 30px;
+}
+.title {
+  padding: 12px;
+  font-size: 32px;
+}
+.eachGraph {
+  padding-top: 30px;
+}
+.stats-container {
+  display: grid;
+  grid-template-columns: auto auto;
+  font-size: 48px;
+  margin-bottom: 32px;
+}
+
+.stats-item {
+  font-size: 14px;
+  text-align: center;
+}
+
+.lastUpdated {
+  top: 0;
+  right: 0;
+  text-align: right;
+  font-size: 10px;
+}

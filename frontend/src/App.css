@@ -1,0 +1,45 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 100%;
+  margin-bottom: 72px;
+  /* background-color: gray; */
+  /* color: white; */
+}
+
+.nonOverlap {
+  padding-top: 50px;
+}
+
+.state-container {
+  width: 100%;
+  text-align: center;
+}
+.county-container {
+  width: 100%;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.state-visualization-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  height: 100%;
+}
+
+.visualization-item {
+  margin: auto;
+  width: 50%;
+  height: 30vh;
+  padding-bottom: 32px;
+}
+
+.graph-title {
+  font-size: 20px;
+}

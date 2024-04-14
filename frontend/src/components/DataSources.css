@@ -1,0 +1,51 @@
+.center {
+  padding-top: 25px;
+  margin: auto;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.text {
+  font-weight: 300;
+}
+.flex {
+  display: flex;
+  flex-direction: row;
+}
+
+.flex2 {
+  display: flex;
+  flex-direction: column;
+}
+
+.names {
+  font-size: 20px;
+  font-weight: 300;
+}
+
+.abouttext {
+  text-align: left;
+  padding-top: 25px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+.picture {
+  width: 400px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.pad {
+  margin: auto;
+  justify-content: center;
+}
+
+.resize {
+  width: 20px;
+}
+
+.picturesize {
+  padding-top: 50px;
+  width: 300px;
+}
